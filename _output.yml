@@ -1,3 +1,4 @@
+---
 bookdown::gitbook:
   config:
     toc:
@@ -25,3 +26,4 @@ bookdown::gitbook:
     info: true
     includes:
       after_body: disqus.html
+---
