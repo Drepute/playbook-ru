@@ -40,6 +40,6 @@ jobs:
         shell: Rscript {0}
       - name: before_script
         run: |
-          _build.sh
-          _deploy.sh
+          chmod +x "_build.sh"
+          chmod +x "_deploy.sh"
         shell: Rscript {0}
