@@ -2,7 +2,7 @@ Package: placeholder
 Type: Book
 Title: placeholder
 Version: 0.0.1
-Imports: bookdown
+Imports: bookdown, pandoc
 Author: infi
 Maintainer: infi
 License: MIT | in LICENSE
