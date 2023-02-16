@@ -10,7 +10,7 @@ Phase 1 of any community is best defined as [wandering in the desert](https://ww
 
 The best thing to do at this stage is to establish key operating behaviours and mental frames of mind that will help you recruit the first believers to your mission.
 
-### Creating a Space {-}
+### Creating a space {-}
 
 All interactions create a space. The atmosphere of this space is set by the nuances and details of the interaction. Let’s take an example from our daily lives.
 
@@ -20,7 +20,7 @@ When the details and nuances of an interaction is consistent, the space has a co
 
 By being objective and intentional in your interactions, you increase the chance of maintaining a consistent atmosphere. This has a positive effect that compounds over-time.
 
-### Building a Narrative {-}
+### Building a narrative {-}
 
 Communities exist because they fill a void that members can’t fill themselves. This could be doing something ambitious, feeling seen and heard, exploring interests further, or anything else.
 
@@ -28,7 +28,7 @@ Ambitious goals require teams of people to achieve them. Feeling seen and heard 
 
 A clear narrative easily conveys the value members can expect to get from the community. It also does a great job of setting the right expectations and separating people who are casually interested from those that are genuinely interested.
 
-### Approaching Work {-}
+### Approaching work {-}
 
 The best way to think about growing a community is raising a child. Everything you teach them needs to be constantly updated and reinforced. Simply saying something once isn’t enough. You must make an effort every single day to emphasise your values till they get embedded in the “space”, and you must prepare and address the needs of today.
 
@@ -38,7 +38,7 @@ This means that your approach to working in your community must be very intentio
 
 ### Activity 1: How do you show up to yourself? {-}
 
-> ℹ️ **Creating Spaces** 
+> ℹ️ **Creating spaces** 
 >
 > Remember, the point of a space is to create an atmosphere that is conducive to operating in and growing your community. This means it starts with you, at the individual level.
 
@@ -69,7 +69,7 @@ The way you show up to yourself and your various roles is the way you show up to
     * The above, distilled into your narrative becomes — we are expanding the pokemon fandom around the world.
     * Remember, the best narratives evolve with community participation. So while you must put in some thought, do not spend too much time here. There is a high chance that as your community grows, it will collectively decide to focus on something that slightly different, or even completely different.
 
-### Activity 3: Spreading the word. {-}
+### Activity 3: Spread the word. {-}
 
 Now that you have clarity, create a content strategy that revolves around your narrative and start posting on Twitter, Lens and Farcaster to begin with.
 

@@ -1,16 +1,16 @@
 # Introduction to the Series {-}
 
-> Together is a wonderful place to be. — Dwayna Litz
+> *Together is a wonderful place to be.* — Dwayna Litz
 
 ![[Computer Chronicles — The Internet (1993)](https://www.youtube.com/watch?v=U_o8gerare0&t=1134s)](img/well.png)
 
 ## The Imperative of Our Times {-}
 
-The Whole Earth ‘Lectronic Link, or [The WELL](https://en.wikipedia.org/wiki/The_WELL) is one of the oldest virtual communities still operational. Launched in 1985, in just 8 short years, it grew to 7,000 members and a staff of 12 full-time employees with a gross annual income of [$2 million](https://en.wikipedia.org/wiki/The_WELL#cite_note-:5-2). These are interesting statistics, considering the fact that the foundations of modern day internet — that enable such communities — didn’t exist then.
+The Whole Earth ‘Lectronic Link, or [The WELL](https://en.wikipedia.org/wiki/The_WELL) is one of the oldest virtual communities that is still operational. Launched in 1985, it grew to 7,000 members and a staff of 12 full-time employees with a gross annual income of [$2 million](https://en.wikipedia.org/wiki/The_WELL#cite_note-:5-2) in just 8 short years,. These are interesting statistics, considering how the foundations of modern-day internet — that enable such communities — didn’t exist at the time.
 
-One participant of The WELL, Howard Rheingold, wrote a book aptly titled The Virtual Community, where he discussed the vagaries of life pertaining to online communities. The book’s prescience is uncanny.
+One participant of The WELL, [Howard Rheingold](https://en.wikipedia.org/wiki/Howard_Rheingold), wrote a book aptly titled [The Virtual Community](https://www.rheingold.com/vc/book/), where he discussed the vagaries of life pertaining to online communities. The book’s prescience is uncanny.
 
-Almost three decades later, Howard’s observations have become reality. People addicted to communicating online, trolling each other, coordinating together for a greater cause and even finding love — these were as common occurences back then as they are now.
+Terminally online people, constant trolling, coordinating for greater causes and even finding love — these were as common back then as they are now.
 
 What’s more interesting though, was the focus of Howard’s work. He wanted to investigate what made a stream of digital messages, turn into a community as good as any other. When conversation is stripped of its social cues, how does one create the feeling of warm connection with words?
 
@@ -19,7 +19,6 @@ This series of articles on community building aims to answer this very question 
 Be it WSB traders, DAO contributors or activists in Signal groups, the meta of the times has been participating and growing communities. This could attributed partly to the nature of things — narratives that provide meaning to people’s lives have withered, leading to increased isolation. 
 
 What was once a family sharing one TV, is now everyone sitting separately with their own screens. Technology has gone from a facilitator of “real-life” activity, to a replacement of the same. As a result, we are now finding meaning in these screens, which has turned participating and growing virtual communities consequential for our well-being.
-
 
 ## Taking a Closer Look {-}
 
