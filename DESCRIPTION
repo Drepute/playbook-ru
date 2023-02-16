@@ -1,5 +1,9 @@
 Package: placeholder
 Type: Book
 Title: placeholder
-Version: 1
+Version: 0.0.1
 Imports: bookdown
+Description: placeholder
+Author: infi
+Maintainer: infi
+License: MIT
