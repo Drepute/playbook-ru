@@ -3,7 +3,7 @@ Type: Book
 Title: placeholder
 Version: 0.0.1
 Imports: bookdown
-Description: placeholder
 Author: infi
 Maintainer: infi
-License: MIT
+License: MIT | in LICENSE
+Description: placeholder
