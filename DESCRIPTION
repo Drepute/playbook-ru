@@ -4,6 +4,6 @@ Title: placeholder
 Version: 0.0.1
 Imports: bookdown, pandoc
 Author: infi
-Maintainer: infi
+Maintainer: infi <infinitegwei@skiff.com>
 License: MIT | in LICENSE
 Description: placeholder
