@@ -1,5 +1,0 @@
-Package: placeholder
-Type: Book
-Title: placeholder
-Version: 1
-Imports: bookdown
