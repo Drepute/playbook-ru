@@ -10,7 +10,7 @@ bookdown::gitbook:
       scroll_highlight: true
     toolbar:
       position: null
-    edit: https://github.com/Drepute/playbook/edit/%s
+    edit: https://github.com/Drepute/playbook/edit/main/%s
     download: null
     search:
       engine: lunr
