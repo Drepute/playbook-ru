@@ -1,5 +1,4 @@
 Package: placeholder
-Type: Book
 Title: placeholder
 Version: 0.0.1
 Imports: bookdown, pandoc
