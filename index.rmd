@@ -18,7 +18,7 @@ In our quest to help communities maximise their potential, we couldn’t help bu
 
 To answer these questions, we started putting together this community building playbook as a public good. And we invite you to co-create it with us!
 
-![This playbook is incomplete.](img/cover.png)
+![](img/cover.png)
 
 Distilling community building to a formula is no simple task, and it is also not our intention here. Instead, we aim to open a two-way dialogue with the reader, and discuss the general direction we should move in. As a result, this public good may seem incomplete, and it shall always be so.
 
