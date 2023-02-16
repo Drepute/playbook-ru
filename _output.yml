@@ -23,3 +23,5 @@ bookdown::gitbook:
       twitter: true
       linkedin: true
     info: true
+    includes:
+      after_body: disqus.html
