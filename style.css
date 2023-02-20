@@ -12,3 +12,7 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+.hey-there > h1, .title {
+  font-size: 0;
+}  
