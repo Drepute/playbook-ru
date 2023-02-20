@@ -10,6 +10,15 @@ github-repo: Drepute/playbook
 
 # Hey there! {-}
 
+```{css, echo=FALSE}
+.book .book-body .page-wrapper .page-inner section.normal h1 {
+    font-size: 0;
+}
+```
+
+
+![](img/cover.png)
+
 In our quest to help communities maximise their potential, we couldn’t help but try and understand how communities work at a deeper level.
 
 - What dynamics govern them? 
@@ -18,7 +27,6 @@ In our quest to help communities maximise their potential, we couldn’t help bu
 
 To answer these questions, we started putting together this community building playbook as a public good. And we invite you to co-create it with us!
 
-![](img/cover.png)
 
 Distilling community building to a formula is no simple task, and it is also not our intention here. Instead, we aim to open a two-way dialogue with the reader, and discuss the general direction we should move in. As a result, this public good may seem incomplete, and it shall always be so.
 
