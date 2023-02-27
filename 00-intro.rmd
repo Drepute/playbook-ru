@@ -1,24 +1,24 @@
-# Introduction to the Series {-}
+# Введение в Цикл {-}
 
-> *Together is a wonderful place to be.* — Dwayna Litz
+> *Together is a wonderful place to be. (Вместе - это замечательное место.)*  — Dwayna Litz
 
 ![[Computer Chronicles — The Internet (1993)](https://www.youtube.com/watch?v=U_o8gerare0&t=1134s)](img/well.png)
 
-## The Imperative of Our Times {-}
+## Императив нашего времени {-}
 
-The Whole Earth ‘Lectronic Link, or [The WELL](https://en.wikipedia.org/wiki/The_WELL) is one of the oldest virtual communities that is still operational. Launched in 1985, it grew to 7,000 members and a staff of 12 full-time employees with a gross annual income of [$2 million](https://en.wikipedia.org/wiki/The_WELL#cite_note-:5-2) in just 8 short years. These are interesting statistics, considering how the foundations of modern-day internet — that enable such communities — didn’t exist at the time.
+Earth 'Lectronic Link или The WELL - одно из старейших виртуальных сообществ, действующих до сих пор. Запущенное в 1985 году, всего за 8 лет оно выросло до 7 000 членов и штата в 12 сотрудников с валовым годовым доходом в $2 миллиона. Это интересная статистика, учитывая тот факт, что основ современного Интернета, позволяющих создавать такие сообщества, тогда еще не существовало.
 
-One participant of The WELL, [Howard Rheingold](https://en.wikipedia.org/wiki/Howard_Rheingold), wrote a book aptly titled [The Virtual Community](https://www.rheingold.com/vc/book/), where he discussed the vagaries of life pertaining to online communities. The book’s prescience is uncanny.
+Один из участников The WELL, Говард Рейнгольд, написал книгу под метким названием "Виртуальное сообщество", в которой он рассказал о превратностях жизни онлайн-сообществ. Предсказания этой книги просто поразительно.
 
-Terminally online people, constant trolling, coordinating for greater causes and even finding love — these were as common back then as they are now.
+Почти три десятилетия спустя наблюдения Говарда стали реальностью. Люди, пристрастившиеся к общению в Интернете, троллинг друг друга, объединение усилий ради великой цели и даже поиск любви - все это было обычным явлением как тогда, так и сейчас.
 
-What’s more interesting though, was the focus of Howard’s work. He wanted to investigate what made a stream of digital messages, turn into a community as good as any other. When conversation is stripped of its social cues, how does one create the feeling of warm connection with words?
+Однако более интересной была цель работы Говарда. Он хотел исследовать, что заставляет поток цифровых сообщений превращаться в сообщество, ничем не уступающее любому другому. Когда разговор лишен социальных признаков, как можно создать ощущение теплой связи с помощью слов?
 
-This series of articles on community building aims to answer this very question in ample detail. Exiting the domains of Big Tech, people today are increasingly turning away from mindless consumption. In a world of remote everything, people are seeking and creating communities that ***do*** things.
+Эта серия статей о создании сообществ призвана дать подробный ответ именно на этот вопрос. Покидая сферу влияния Больших Технологий, люди сегодня все больше отворачиваются от бездумного потребления. В мире удаленного доступа ко всему, люди ищут и создают сообщества, которые занимаются делом.
 
-Be it WSB traders, DAO contributors or activists in Signal groups, the meta of the times has been participating and growing communities. This could attributed partly to the nature of things — narratives that provide meaning to people’s lives have withered, leading to increased isolation. 
+Будь то трейдеры WSB, вкладчики DAO или активисты групп Signal, тренд времени - это участие и рост сообществ. Отчасти это можно объяснить природой вещей - нарративы, придающие смысл жизни людей, увяли, что привело к росту изоляции.
 
-What was once a family sharing one TV, is now everyone sitting separately with their own screens. Technology has gone from a facilitator of “real-life” activity, to a replacement of the same. As a result, we are now finding meaning in these screens, which has turned participating and growing virtual communities consequential for our well-being.
+Если раньше семья смотрела один телевизор, то теперь все сидят отдельно у своих экранов. Технология превратилась из помощника в "реальной жизни" в ее замену. В результате мы стали находить смысл в этих экранах, что сделало участие и развитие виртуальных сообществ важным для нашего благополучия.
 
 ## Taking a Closer Look {-}
 
