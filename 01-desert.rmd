@@ -1,56 +1,60 @@
-# Phase 1: The Desert {-}
+# Этап 1: Пустыня {-}
 
-> *The journey of a thousand miles begins with a single step.* — Laozi
+>The journey of a thousand miles begins with a single step. (Путь в тысячу миль начинается с первого шага.) — Laozi
 
-![[This desert might seem familiar.](https://www.google.com/url?q=https://www.breakingbad-locations.com/episodes/confessions/&sa=D&source=editors&ust=1675965397286098&usg=AOvVaw0L_j90WtOTLElAmqxqgmbV)](img/2.png)
+![](images/2.png)[This desert might seem familiar.](https://www.google.com/url?q=https://www.breakingbad-locations.com/episodes/confessions/&sa=D&source=editors&ust=1677521782395907&usg=AOvVaw007YGt1op0Xi-vVt8JChBZ)
 
-Phase 1 of any community is best defined as [wandering in the desert](https://www.google.com/url?q=https://medium.com/seeking-wisdom/17-why-startups-are-like-wandering-through-the-desert-c042bfd7edf4&sa=D&source=editors&ust=1675965397286679&usg=AOvVaw3-AnAwf6z21e5htYngExzu). The “community” has three or fewer members. It could also just be you, an idea that isn’t fully fleshed-out yet, and a lot of confusion.
+Первый этап любого сообщества лучше всего определяется как [блуждание в пустыне](https://www.google.com/url?q=https://medium.com/seeking-wisdom/17-why-startups-are-like-wandering-through-the-desert-c042bfd7edf4&sa=D&source=editors&ust=1677521782396512&usg=AOvVaw3wO2RORoqP7ipDeTl1Clti). В "сообществе" три или менее участников. Это можете быть только вы, идея, которая еще не до конца проработана, и много путаницы.
 
-## Setting the Stage {-}
+## Создание площадки {-}
 
-The best thing to do at this stage is to establish key operating behaviours and mental frames of mind that will help you recruit the first believers to your mission.
+На этом этапе лучше всего установить ключевые модели поведения и образные рамки, которые помогут вам привлечь первых сторонников вашей идеи.
 
-### Creating a space {-}
+### Создание пространства {-}
 
-All interactions create a space. The atmosphere of this space is set by the nuances and details of the interaction. Let’s take an example from our daily lives.
+Любое взаимодействие создает пространство. Атмосфера этого пространства задается нюансами и деталями взаимодействия. Возьмем пример из нашей повседневной жизни.
 
-The space created when a group of friends get together, is very different from the space created when they meet each other individually. This is because inspite of inhabiting the shared space (as members of a group), their individual interactions have vastly different details and nuances.
+Пространство, создаваемое, когда группа друзей собирается вместе, сильно отличается от пространства, создаваемого, когда они встречаются друг с другом по отдельности. Это происходит потому, что, несмотря на то, что они живут в общем пространстве (как члены группы), их индивидуальное взаимодействие имеет совершенно разные детали и нюансы.
 
-When the details and nuances of an interaction is consistent, the space has a constant atmosphere that fosters bonding. When these are inconsistent, we see the breakdown of a group in several sub-groups where interactions are consistent.
+Когда детали и нюансы взаимодействия совпадают, в пространстве создается постоянная атмосфера, способствующая сближению. Когда они непоследовательны, мы видим, что группа распадается на несколько подгрупп, где взаимодействие происходит последовательно.
 
-By being objective and intentional in your interactions, you increase the chance of maintaining a consistent atmosphere. This has a positive effect that compounds over-time.
+Если вы будете объективны и намерены в своих взаимодействиях, вы увеличите шансы на поддержание постоянной атмосферы. Этот положительный эффект со временем закрепляется и усиливается.
 
-### Building a narrative {-}
+### Построение повествования {-}
 
-Communities exist because they fill a void that members can’t fill themselves. This could be doing something ambitious, feeling seen and heard, exploring interests further, or anything else.
+Сообщества существуют потому, что они заполняют пустоту, которую члены сообщества не могут заполнить сами. Это может быть занятие чем-то амбициозным, ощущение, что тебя видят и слышат, дальнейшее изучение интересов или что-то еще.
 
-Ambitious goals require teams of people to achieve them. Feeling seen and heard requires attentive ears and a safe space. Exploring interests requires exposure to experts and beginners alike that unlocks new perspectives and a deeper understanding. All of this is only possible in communities, never alone.
+Амбициозные цели требуют команд людей для их достижения. Чтобы почувствовать себя замеченным и услышанным, нужны внимательные уши и безопасное пространство. Изучение интересов требует общения как с экспертами, так и с новичками, что открывает новые перспективы и углубляет понимание. Все это возможно только в сообществах, никогда в одиночку.
 
-A clear narrative easily conveys the value members can expect to get from the community. It also does a great job of setting the right expectations and separating people who are casually interested from those that are genuinely interested.
+Четкое описание легко передает ценность, которую члены могут ожидать от сообщества. Кроме того, оно отлично справляется с задачей формирования правильных ожиданий и отделения людей, проявляющих случайный интерес, от тех, кто заинтересован по-настоящему.
 
-### Approaching work {-}
+### Подход к работе {-}
 
-The best way to think about growing a community is raising a child. Everything you teach them needs to be constantly updated and reinforced. Simply saying something once isn’t enough. You must make an effort every single day to emphasise your values till they get embedded in the “space”, and you must prepare and address the needs of today.
+Лучше всего думать о развитии сообщества, как о воспитании ребенка. Все, чему вы учите, должно постоянно обновляться и подкрепляться. Просто сказать что-то один раз недостаточно. Вы должны прилагать усилия каждый день, чтобы подчеркнуть свои ценности, пока они не укоренились в "пространстве", и вы должны готовиться и удовлетворять потребности сегодняшнего дня.
 
-This means that your approach to working in your community must be very intentional. Since there is a high chance that your community is mostly online and exists solely in the communication channels, it is imperative to maintain a certain objectivity and clarity in your communications.
+Это означает, что ваш подход к работе в сообществе должен быть очень продуманным. Поскольку велика вероятность того, что ваше сообщество в основном находится в Интернете и существует исключительно в каналах связи, крайне важно сохранять определенную объективность и ясность в ваших коммуникациях.
 
-## Time to Perform! {-}
+## Время действовать! {-}
 
-### Activity 1: How do you show up to yourself? {-}
+### Действие 1: Как вы проявляете себя? {-}
 
-> ℹ️ **Creating spaces** 
+> ℹ️ **Создание пространств** 
 >
-> Remember, the point of a space is to create an atmosphere that is conducive to operating in and growing your community. This means it starts with you, at the individual level.
+> Помните, что смысл пространства заключается в создании атмосферы, благоприятной для работы и роста вашего сообщества. Это означает, что все начинается с вас, на индивидуальном уровне.
 
-The way you show up to yourself and your various roles is the way you show up to your community. Observing yourself as a group and noticing the various interactions is quite revealing. This is evident when you say, “this part of me wants X, but this part of me wants Y.”
+Как вы проявляете себя и свои различные роли, так вы проявляете себя и в обществе. Наблюдение за собой как за группой и подмечание различных взаимодействий является весьма показательным. Это очевидно, когда вы говорите: "Эта часть меня хочет Х, а эта часть меня хочет Y".
 
-* Write down the various parts that make “you”.
-    * These could be the roles you play (a friend, a parent, a teacher, etc.)
-    * Or your various motivations and desires (I really want to read this book, but I also want to go out with my friends).
-* Notice the interactions between these various parts.
-    * Are you combative or collaborative? (for example, do you often resolve conflicting desires with harsh words like “No, we will not do this!” or in some other way?)
-    * When you favour a certain part, is it out of domination or a place of understanding? (for example, the teacher in you wants to reprimand the disruptive student, but the friend in you wants to laugh at what they said.)
-* If there are others in your community at this moment, get everyone to do this exercise individually and share the results with each. It will not only deepen your understanding of each other, but it will also help in communicating better.
+* Запишите различные части, которые составляют "вас".
+    * Это могут быть роли, которые вы играете (друг, родитель, учитель и т.д.).
+    * Или ваши различные мотивы и желания (я очень хочу прочитать эту книгу, но я также хочу пойти погулять с друзьями).
+
+* Обратите внимание на взаимодействие между этими различными частями.
+    * Вы боретесь или сотрудничаете? (например, часто ли вы решаете противоречивые желания резкими словами типа "Нет, мы не будем этого делать!" или каким-то другим способом?)
+    * Когда вы отдаете предпочтение той или иной роли, делаете ли вы это из доминирования или из понимания? (Например, учитель в вас хочет сделать замечание ученику, нарушающему дисциплину, но друг в вас хочет посмеяться над тем, что он сказал).
+
+* Если в вашем сообществе в данный момент есть другие люди, попросите каждого выполнить это упражнение индивидуально и поделитесь результатами с каждым. Это не только углубит ваше понимание друг друга, но и поможет лучше общаться.
+
+--- Edit here onwards ---
 
 ### Activity 2: What are you getting people excited about? {-}
 
@@ -100,20 +104,23 @@ Having said that, it’s the early stages, so clarity and brevity is important. 
 * Your community narrative and your values make up your manifesto. If you have done the above exercises diligently, it won’t take long to prepare this.
 * Next, create a collectable Mirror post of this manifesto (ideally free) and personally send it to all your existing Twitter followers.
 
-## Common Roadblocks {-}
+--- Edit till here ---
+
+## Общие препятствия {-}
 
 ![](img/1.png)[For the love of the immortal snail](https://www.oxfordstudent.com/2021/11/03/for-love-of-the-immortal-snail/)
 
-Communities in the beginning are ideas, and ideas die a slow death. Keeping your community alive requires consistent effort to keep the idea alive. This is harder than it seems.
+Сообщества в начале - это идеи, а идеи умирают медленной смертью. Для поддержания жизни вашего сообщества требуются последовательные усилия, направленные на сохранение идеи. Это труднее, чем кажется.
 
-When there’s just one, two or three people, everyone’s behaviours and outlook has an outsized impact on the team’s motivation. The good days are really good and the bad days are really bad. So all challenges in this stage pertain to maintaining motivation.
+Когда в сообществе всего один, два или три человека, поведение и мировоззрение каждого оказывает огромное влияние на мотивацию команды. Хорошие дни - действительно хорошие, а плохие - действительно плохие. Поэтому все проблемы на этом этапе связаны с поддержанием мотивации.
 
-The only way to navigate this phase thus is to rigorously uphold your values, and religiously take part in rituals. This will ground you and help you maintain a baseline level of motivation to keep the idea alive at all times.
+Таким образом, единственный способ преодолеть этот этап - это неукоснительно придерживаться своих ценностей и религиозно относиться к ритуалам. Это заземлит вас и поможет поддерживать базовый уровень мотивации, чтобы идея всегда оставалась живой.
 
-Take an iterative approach to everything and focus on doing good enough instead of doing perfect. Iterations just feel good, and keep the morale high. Think of it like taking the stairs vs. jumping directly. The latter is no doubt faster, and sometimes more fun, but it might break your legs, and is definitely not a strategy for the long run..
+Используйте итерационный подход ко всему и сосредоточьтесь на том, чтобы сделать достаточно хорошо, а не идеально. Итерации просто приятны и поддерживают моральный дух. Подумайте об этом, как о том, чтобы спускаться по лестнице, а не прыгать прямо. Последний вариант, несомненно, быстрее, а иногда и веселее, но он может сломать вам ноги, и это определенно не стратегия на долгосрочную перспективу.
 
-## Conclusion {-}
+## Заключение {-}
 
-By now, you should have set the stage to spread your mission and recruit early believers. You have a clear idea of what you are doing and a sustainable, healthy way of working and growing your community. You also have a tiny presence on social media (like Twitter, Farcaster and Lens) and a manifesto that introduces the world to your community.
+К этому моменту вы уже должны были подготовить почву для распространения своей миссии и привлечения первых участников. У вас есть четкое представление о том, что вы делаете, и устойчивый, здоровый способ работы и роста вашего сообщества. У вас также есть крошечное присутствие в социальных сетях (таких как Twitter, Farcaster и Lens) и манифест, который знакомит мир с вашим сообществом.
 
-Hopefully, the bedrock of your community strengthens over time and you chip off at work, one day at a time, one task at a time. Eventually, there comes a point when your team starts growing. You slowly double in size and reach a team of five or six people. Things change — some for the better, some for the worse — and you need to keep up with this. Let’s learn how.
+Надеюсь, что со временем фундамент вашего сообщества укрепится, и вы будете работать, выполняя один день за другим, одну задачу за другой. В конце концов, наступает момент, когда ваша команда начинает расти. Вы постепенно удваиваете численность и достигаете команды из пяти или шести человек. Все меняется - некоторые в лучшую, некоторые в худшую сторону - и вам нужно успевать за этим. Давайте узнаем, как это сделать.
+

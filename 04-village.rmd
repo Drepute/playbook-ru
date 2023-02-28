@@ -1,35 +1,37 @@
-# Phase 4: The Village {-}
+# Этап 4: Деревня {-}
 
-> *“Even if you’re on the right track, you’ll get run over if you just sit there.”* – Will Rogers
+> *“Even if you’re on the right track, you’ll get run over if you just sit there.” ("Даже если вы на правильном пути, вас переедут, если вы будете просто сидеть на месте")* – Will Rogers
 > 
 
 ![[A village in Switzerland](https://www.rt.com/news/231927-fights-rada-ukrainian-mps/)](img/8.png)
 
-After the hustle and bustle of the carnival, you arrive at the village. Things are calmer and more predictable. They have also slowed down. New people come and old people leave in an expected, orderly fashion. 
+После суеты и шума ярмарки вы приезжаете в деревню. Здесь все спокойнее и предсказуемее. Они также замедлились. Новые люди приходят, а старые уходят ожидаемым, упорядоченным образом.
 
-You have passed, or are going to pass Dunbar’s number. There is a high chance that there are chunks of people in your community completely unaware of each other. You have made a name and a space for yourself. Now is the time to form alliances and exploring new territories while maintaining what you have built.
+Вы прошли или собираетесь пройти мимо номера Данбара. Велика вероятность того, что в вашем сообществе есть куски людей, совершенно не знающих друг друга. Вы создали себе имя и пространство. Сейчас самое время создавать альянсы и осваивать новые территории, сохраняя при этом то, что вы построили.
 
-## Setting the Stage {-}
+## Создание площадки {-}
 
-If you have reached this stage, your community has succeeded in making a name and carving out a space for itself. You must now shift your focus to forming alliances and exploring new territories, while maintaining what you have built.
+Если вы достигли этого этапа, значит, ваше сообщество добилось успеха, сделав себе имя и выделив для себя место. Теперь вы должны переключить свое внимание на создание альянсов и освоение новых территорий, сохраняя при этом то, что вы построили.
 
-### Maintaining your community {-}
+### Поддерживайте свое сообщество {-}
 
-Let’s revisit the idea of communities being gardens. 
+Давайте вернемся к идее о том, что сообщества - это сады.
 
-A vibrant and a colourful garden requires high levels of maintenance. This means regularly tending to its plants and flowers; periodically removing weeds, insects and pests; and, occasionally fending the wild animal that threatens to walk over and destroy everything.
+Живой и красочный сад требует высокого уровня обслуживания. Это означает регулярный уход за растениями и цветами, периодическое удаление сорняков, насекомых и вредителей, а также периодическую борьбу с дикими животными, которые угрожают пройти и все уничтожить.
 
-Similarly, you should focus on improving the experience of participating in your community, reinforcing positive behaviours and being on the lookout for subtle winds of change that could turn into storms in the future.
+Аналогичным образом, вы должны сосредоточиться на улучшении опыта участия в жизни вашего сообщества, укреплении позитивных моделей поведения и быть начеку в отношении едва уловимых ветров перемен, которые в будущем могут превратиться в бури
 
-### Expanding your influence {-}
+### Расширяйте свое влияние {-}
 
-As your community matures, you either find yourself having achieved the goal you initially set out to achieve, or, you find yourself no longer captivated by that mission. In either cases, there is a tangible sense of stagnation in your community. You must address this by introducing ideas of expansion and focussing on a different or a bigger goal.
+По мере взросления вашего сообщества вы либо обнаруживаете, что достигли цели, которую изначально ставили перед собой, либо обнаруживаете, что эта миссия вас больше не увлекает. В любом случае в вашем сообществе возникает ощутимое чувство стагнации. Вы должны решить эту проблему, внедрив идеи расширения и сосредоточившись на другой или большей цели.
 
-Is there a way to player a large role in the ecosystem you are a part of? Is there something new on the horizon that you can participate in? In this stage of your community, the bonds among the members are strong enough to survive an update to or a complete change of your north star.
+Есть ли возможность играть большую роль в экосистеме, частью которой вы являетесь? Есть ли на горизонте что-то новое, в чем вы можете принять участие? На этом этапе развития вашего сообщества связи между его членами достаточно сильны, чтобы пережить обновление или полную смену вашей северной звезды.
 
-## Time to Perform! {-}
+## Время действовать! {-}
 
-The village is a comfortable place to stay. It is also where most communities go and die. You must continue to fan curiosity and keep the explorer spirit alive.
+Деревня - это удобное место для проживания. Это также место, куда уходит и умирает большинство общин. Вы должны продолжать разжигать любопытство и поддерживать дух исследователя.
+
+--- edit from here ---
 
 ### Activity 20: Guarding the gates. {-}
 
@@ -80,38 +82,38 @@ Remember, community founders have great levels of influence and are held in high
     * Take the charge in coordinating an irl meetup for your community members that are open to do so. This need not even be something on its own — a good idea is to meet or host a side-event at any of the tentpole events that happen in your ecosystem around the year.
     * For example, ETH Denver has become a popular event for many crypto communities to gather and meet irl for the first time. Explore similar events in your area if all your members are in the same country or continent.
 
-## Common Roadblocks {-}
+## Общие препятствия {-}
 
 ![[A situation like this can easily be avoided.](https://www.rt.com/news/231927-fights-rada-ukrainian-mps/)](img/9.png)
 
-The biggest roadblocks to your community’s progress at this stage are politics and stagnation. 
+Самыми большими препятствиями на пути прогресса вашего сообщества на этом этапе являются политика и застой.
 
-As your community grows in size, so do the number of unofficial sub-groups that go on to sow the seeds of destruction. Identify the key members that disrupt the harmony of your community and make an effort to address their behaviour early on.
+По мере роста численности вашей общины растет и количество неофициальных подгрупп, которые сеют семена разрушения. Определите ключевых членов, которые нарушают гармонию вашего сообщества, и постарайтесь устранить их поведение на ранней стадии.
 
-Obviously, mere disagreement or a difference of opinion does not equal disruption. But, individuals that behave in clannish ways or communicate unhealthily are surely disruptive. Make sure you deal with these individuals early on — either by assimilating them into your community or helping them find opportunities they are better suited for.
+Очевидно, что простое несогласие или расхождение во мнениях не равнозначно нарушению гармонии. Но люди, которые ведут себя по-клановски или общаются нездоровым образом, несомненно, нарушают гармонию. Позаботьтесь о том, чтобы справиться с такими людьми на ранней стадии - либо ассимилируйте их в своем сообществе, либо помогите им найти возможности, для которых они лучше подходят.
 
-The next roadblock you shall face going forward is falling into the trap of indecisiveness as to what you should focus on. This can be individual as well as communal indecision. The reason behind such indecision is mostly an outdated way of evaluating opportunities. There is a certain inertia that comes with growth, and this must be dealt with head first.
+Следующее препятствие, с которым вы столкнетесь в дальнейшем, - это попадание в ловушку нерешительности в вопросе о том, на чем вам следует сосредоточиться. Это может быть как индивидуальная, так и общественная нерешительность. Причиной такой нерешительности в основном является устаревший способ оценки возможностей. Существует определенная инерция, которая приходит с ростом, и с ней нужно бороться в первую очередь.
 
-## Conclusion {-}
+## Заключение {-}
 
-By now, the operations of your community are mostly locked down.
+К этому времени деятельность вашего сообщества в основном налажена.
 
-You have a rhythm to your social media strategy, you’re building in public/getting the broader public involved as much as you can (through virtual events, progress reports and content) and you have a healthy atmosphere in your digital headquarters (which could be Google Workspace and Discord, or a bespoke mix of open source tools).
+У вас есть ритм в стратегии социальных сетей, вы строите свою работу на публике/привлекаете широкую общественность как можно больше (через виртуальные мероприятия, отчеты о проделанной работе и контент) и у вас здоровая атмосфера в вашей цифровой штаб-квартире (которая может быть Google Workspace и Discord, или специальная смесь инструментов с открытым исходным кодом).
 
-You have a list of rituals that make participation fun, and you have a set processes that facilitate idea generation, constructive discussion and active voting.
+У вас есть список ритуалов, которые делают участие веселым, и есть набор процессов, способствующих генерации идей, конструктивному обсуждению и активному голосованию.
 
-Congratulations! 
+Поздравляем! 
 
-Most communities that start don’t live to see this day. But in all communities, big and small, the stages outlined in the previous posts are somewhat common. Sure, the duration of each phase may vary greatly — some communities develop on a [slow-burn over years](https://bitcoin.org/en/community) while others [bubble up in weeks](https://www.constitutiondao.com/).
+Большинство начинающих сообществ не доживают до этого дня. Но во всех сообществах, больших и малых, этапы, описанные в предыдущих постах, являются в некоторой степени общими. Конечно, продолжительность каждого этапа может сильно отличаться - некоторые сообщества [развиваются медленно, годами](https://bitcoin.org/en/community), а другие - за [несколько недель](https://www.constitutiondao.com/).
 
-It also depends on your community’s focus. Are you trying to build or improve a product? Are you trying to provide some sort of service? Is it primarily a space for people to discuss a niche interest? All this affects your trajectory and your growth. Also, it can change anytime!
+Это также зависит от направленности вашего сообщества. Пытаетесь ли вы создать или улучшить продукт? Пытаетесь ли вы предоставить какую-то услугу? Является ли оно в первую очередь местом для обсуждения нишевых интересов? Все это влияет на вашу траекторию и ваш рост. Кроме того, все это может измениться в любой момент!
 
-The only thing to remember is that any community is like an evolving, living, breathing entity that changes with time. 
+Единственное, что нужно помнить, - это то, что любое сообщество подобно развивающейся, живой, дышащей сущности, которая меняется со временем.
 
-As is with art, one “finishes” or “perfects” a community, they simply abandon it. This is a thoughtful comparison.
+Как и в искусстве, человек "заканчивает" или "совершенствует" сообщество, он просто покидает его. Это продуманное сравнение.
 
-Community building is the greatest art of the 21st century. This is because of two reasons — first, is the development in communication technology, that make discovering others with shared interests very, very easy.
+Создание сообщества - величайшее искусство 21 века. Это объясняется двумя причинами - во-первых, развитием коммуникационных технологий, которые позволяют очень и очень легко находить людей с общими интересами.
 
-Second, is the breakdown in traditional community structures that has led to people increasingly finding themselves in their community of choice.
+Во-вторых, разрушение традиционных структур сообществ привело к тому, что люди все чаще находят себя в сообществе по своему выбору.
 
-Artists, creators and ideas have unparalleled pull today. It is our imperative to take full advantage of this, and make the world a better place.
+Художники, творцы и идеи сегодня обладают беспрецедентной силой притяжения. Мы должны в полной мере воспользоваться этим и сделать мир лучше.
