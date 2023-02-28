@@ -1,5 +1,5 @@
 --- 
-title: "Community Building Playbook"
+title: "Руководство по созданию сообщества"
 site: bookdown::bookdown_site
 documentclass: book
 url: https://Drepute.github.io/playbook/
