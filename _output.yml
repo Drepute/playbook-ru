@@ -5,7 +5,7 @@ bookdown::gitbook:
       before: |
         <li><a href="https://Drepute.github.io/playbook-ru/"><center>Community Building Playbook</center></a></li>
       after: |
-        <li><a href="https://twitter.com/InfiniteGwei/"><i>Maintained by Infi</i> 😄</a></li>
+        <li><a href="https://twitter.com/rep3gg/"><i>Maintained by rep3</i> 😄</a></li>
         <li><a href="https://github.com/rstudio/bookdown"><i>Published using bookdown</i> 📕</a></li>
       collapse: section
       scroll_highlight: true
