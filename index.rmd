@@ -4,11 +4,11 @@ site: bookdown::bookdown_site
 documentclass: book
 url: https://Drepute.github.io/playbook/
 cover-image: "img/cover.png"
-description: "This is community building playbook originally authored by @InfiniteGwei from rep3. This book is a public good. We strongly encourage you to read, share and contribute to this resource!"
+description: "Это руководство по созданию сообщества, автором которого является @InfiniteGwei из rep3. Этот мануал является публичным ресурсом. Мы настоятельно рекомендуем вам читать, делиться и вносить свой вклад в это пособие!"
 github-repo: Drepute/playbook
 ---
 
-# Hey there! {-}
+# Всем привет! {-}
 
 ```{css, echo=FALSE}
 .book .book-body .page-wrapper .page-inner section.normal h1 {
@@ -19,18 +19,18 @@ github-repo: Drepute/playbook
 
 ![](img/cover.png)
 
-In our quest to help communities maximize their potential, we couldn’t help but try and understand how communities work at a deeper level.
+Стремясь помочь сообществам максимально реализовать свой потенциал, мы не могли не попытаться понять, как работают сообщества на более глубоком уровне.
 
-- What dynamics govern them? 
-- How does an average community evolve over time? 
-- And, most importantly, how does one start a community around an interest or a goal?
+- Какая динамика управляет ими?
+- Как развивается среднестатистическое сообщество с течением времени?
+- И, самое главное, как создать сообщество по интересам или основанное на общей цели?
 
-To answer these questions, we started putting together this community building playbook as a public good. And we invite you to co-create it with us!
+Чтобы ответить на эти вопросы, мы начали составлять это руководство по созданию сообществ. И мы приглашаем вас принять участие в его разработке вместе с нами!
 
-Distilling community building to a formula is no simple task, and it is also not our intention here. Instead, we aim to open a two-way dialogue with the reader, and discuss the general direction we should move in. As a result, this public good may seem incomplete, and it shall always be so.
+Свести создание сообщества к формуле - задача не из простых, и мы не ставим перед собой такой цели. Вместо этого мы стремимся начать двусторонний диалог с читателем и обсудить общее направление, в котором нам следует двигаться. В результате, это пособие может показаться неполным, ведь невозможно учесть все аспекты, и так будет всегда.
 
-As community members, we are all well aware of the infinite ways in which communities rise and fall. To add to this complexity, technological developments often disrupt established processes and ground rules. As a result, the community building meta keeps changing.
+Как члены сообщества, мы все хорошо знаем о бесконечных вариантах развития,  подъема и упадка сообществ. К этой сложности добавляется еще и то, что развитие технологий часто нарушает устоявшиеся процессы и правила. В результате мета построения сообщества постоянно меняются.
 
-The rules of building a decentralized, digital community differ from building, say, an irl community. This playbook mainly focusses on the former type of communities, and highlights the concepts and practices that *seem* to work in this domain.
+Правила создания децентрализованного цифрового сообщества отличаются от правил создания, скажем, ирландского сообщества. Это руководство в основном фокусируется на первом типе сообществ и подчеркивает концепции и практики, которые, как представляется, работают в этой области.
 
-We invite you to share your experiences so we may refine this playbook, and make it a possible reference point for the community builders of tomorrow. 😄
+Мы приглашаем вас поделиться своим опытом, усовершенствовать это руководство и сделать его возможным ориентиром для создателей сообществ завтрашнего дня. 😄
