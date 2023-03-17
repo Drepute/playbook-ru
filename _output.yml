@@ -1,29 +1,17 @@
----
 bookdown::gitbook:
+  css: style.css
   config:
     toc:
-      before: |
-        <li><a href="https://Drepute.github.io/playbook-ru/"><center>Community Building Playbook</center></a></li>
-      after: |
-        <li><a href="https://twitter.com/rep3gg/"><i>Maintained by rep3</i> 😄</a></li>
-        <li><a href="https://github.com/rstudio/bookdown"><i>Published using bookdown</i> 📕</a></li>
       collapse: section
       scroll_highlight: true
-    toolbar:
-      position: null
+      before: |
+        <li><center><a href="https://Drepute.github.io/playbook-ru/">Community Building Playbook (RU)</a></center></li>
+      after: |
+        <li><a href="https://rep3.gg?utm_source=organic&utm_medium=pb-ru"><i>Maintained by rep3</i> 😄</a></li>
+        <li><a href="https://github.com/rstudio/bookdown"><i>Published using bookdown</i> 📕</a></li>
     edit: https://github.com/Drepute/playbook-ru/edit/main/%s
     download: null
-    search:
-      engine: lunr
-      options: null
-    fontsettings:
-      theme: dark
-      family: sans
-      size: 2.5
-    sharing:
-      twitter: true
-      linkedin: true
     info: true
-    includes:
-      after_body: disqus.html
----
+  includes:
+    in_header: analytics.html
+    after_body: disqus.html
