@@ -49,69 +49,69 @@
 
 --- edit here onwards --
 
-### Activity 14: Create functional teams. {-}
+### Действие 14: Создание функциональных команд. {-}
 
-Not having a tall hierarchy does not mean not having a structure. As your community grows, it is important to structure yourself for maximum productivity.
+Отсутствие высокой иерархии не означает отсутствие структуры. По мере роста вашего сообщества важно структурировать себя для достижения максимальной продуктивности.
 
-* Identify members from your early members to lead these functional teams.
-    * The type of functional teams you have depends on what your community intends to do. These would probably be clear by seeing what your early members spend time on when engaging in your communities.
-    * Regardless of what you do, it is highly advisable to have a marketing and a governance team. Then, depending on your goals, you could have an engineering team, a design team, a growth team, etc.
-* Cultivate these leaders by supporting them in operating their teams.
-    * Leading a functional team is just another version of leading a community. Share your early lessons with team leaders and inform them of any roadblocks that they might face.
+* Определите членов из числа своих первых членов, которые возглавят эти функциональные команды.
+    * Тип функциональных команд зависит от того, чем намерено заниматься ваше сообщество. Возможно, это станет ясно, если посмотреть, на что тратят время ваши первые члены, когда участвуют в работе ваших сообществ.
+    * Независимо от того, чем вы занимаетесь, крайне желательно иметь команду маркетинга и управления. Затем, в зависимости от ваших целей, у вас может быть команда инженеров, команда дизайнеров, команда роста и т.д.
+* Выращивайте этих лидеров, поддерживая их в управлении их командами.
+    * Руководство функциональной командой - это еще один вариант руководства сообществом. Поделитесь своими первыми уроками с лидерами команд и проинформируйте их обо всех препятствиях, с которыми они могут столкнуться.
 
-### Activity 15: Create a check-in ritual. {-}
+### Действие 15: Создайте ритуал регистрации. {-}
 
-Leadership as hospitality means you need to make sure that everyone is having a good time.
+Лидерство как гостеприимство означает заботу о том, чтобы все хорошо проводили время.
 
-* Encourage your pod leaders to look at their role as that of a party host.
-    * Without asking, how are some ways they can find out if a member is having fun or not? In the party that is your community, what is the equivalent of sitting alone in a corner without eating, drinking or using your phone?
-    * This could like someone suddenly stopping their daily gm’s. Or someone that is not as thorough or thoughtful in their responses, or maybe they reacted to all messages and they have stopped doing so. Or they used to share a lot of memes and music but now they don’t.
-    * Look for patterns and try to notice when people break them. If they do so, it is probably a good idea to check-in with them.
+* Поощряйте своих руководителей подгрупп смотреть на свою роль как на роль хозяина вечеринки.
+    * Какими способами, не спрашивая, они могут узнать, веселится ли член группы или нет? Каков эквивалент того, чтобы сидеть одному в углу, не есть, не пить и не пользоваться телефоном, на вечеринке, которая является вашим сообществом?
+    * Это может быть, например, кто-то внезапно прекратил ежедневные gm'ы. Или кто-то не так тщательно и вдумчиво отвечает на сообщения, или, может быть, он реагировал на все сообщения, а теперь перестал это делать. Или раньше они делились большим количеством мемов и музыки, а теперь этого не делают.
+    * Ищите закономерности и старайтесь замечать, когда люди их нарушают. Если они так поступают, то, вероятно, будет хорошей идеей проверить их.
 
-*Activity 16: Who are the pillars of your community?*
+*Действие 16: Кто является столпами вашего сообщества?*
 
-> ℹ️ **Identifying outliers** 
+> ℹ️ **Определение выбросов** 
 >
->Community members with an outsized impact are the engine of sustenance. Acknowledging them goes a long way.
+>Члены сообщества, оказывающие огромное влияние, являются двигателем жизнеобеспечения. Признание их заслуг приносит много пользы.
 
-* You need to take a hard look at your community to identify these outliers.
-    * Who are the people that take the most amount of initiative? Who are the people that have highest, and most visible impact on community output?
-    * There might be a developer that pumps out PR after PR, or a contributor that always has new content ideas.
-    * There are also others that seem unproductive and more “behind the scenes”, yet they command the most amount of respect or power in your community.
-    * Some outliers could also look like people whose presence lights up the whole space. This could be due to their nature or just the way they conduct themselves. They always have something to say and leave the chat buzzing with action.
+* Вы должны внимательно изучить свою общину, чтобы выявить эти отклонения.
+    * Кто те люди, которые проявляют наибольшую инициативу? Кто оказывает наибольшее и наиболее заметное влияние на результаты деятельности сообщества?
+    * Это может быть разработчик, который выпускает PR за PR, или автор, у которого всегда есть новые идеи для контента.
+    * Есть и другие, которые кажутся непродуктивными и более "закулисными", однако они пользуются наибольшим уважением или властью в вашем сообществе.
+    * Некоторые аутсайдеры также могут выглядеть как люди, чье присутствие освещает все пространство. Это может быть связано с их характером или просто с тем, как они себя ведут. Им всегда есть что сказать, и они оставляют чат наполненным энергией.
 
-### Activity 17: Appreciate and acknowledge the effort of your outliers. {-}
+### Действие 17: Цените и признавайте усилия ваших аутсайдеров. {-}
 
-There several ways of appreciating and acknowledging your members.
+Существует несколько способов выразить признательность и благодарность своим членам.
 
-* Publicly recognise your members, but be careful not to over-do it.
-    * There is a certain influence early members have in any community. As community founders, even though you may not have a lot of power on paper, what you say holds a lot of weight in your community.
-    * Use this to your benefit. Publicly recognise outstanding effort of your community members. But be sparing in your appreciation. Too much and you risk reducing its impact.
-    * Having said that, don’t shy away from individually appreciating members. Do this as much as you can. It will not only make them feel good, but also make your members more open to critical feedback when you need to give so.
-* If possible, create a compensation strategy to monetarily reward members.
-    * When possible, you should always go for rewards that intrinsically motivate people. But some people just have some extrinsic motivations. For them, the prospect of earning money is more valuable than a sense of belonging.
-    * This is also fine. Monetarily rewarding members makes them take participation more seriously, and may even bump up your community in the list of projects they are involved with.
-    * Create a proposal to earmark a portion of your treasury for member contributions. Then, work with team leaders to create and maintain open task boards and processes to evaluate work and disburse payments.
+* Публично признавайте своих членов, но будьте осторожны и не переусердствуйте.
+    * В любом сообществе есть определенное влияние первых членов. Как основатели сообщества, даже если у вас нет большой власти на бумаге, то, что вы говорите, имеет большой вес в вашем сообществе.
+    * Используйте это в своих интересах. Публично отмечайте выдающиеся усилия членов вашей общины. Но будьте скупы в своих благодарностях. Слишком много, и вы рискуете снизить ее воздействие.
+    * При этом не уклоняйтесь от индивидуальной оценки участников. Делайте это как можно чаще. Это не только заставит их чувствовать себя хорошо, но и сделает членов вашей организации более открытыми для критической обратной связи, когда вам понадобится ее дать.
+* Если возможно, разработайте стратегию компенсации для денежного вознаграждения членов организации.
+    * Когда это возможно, вы всегда должны использовать вознаграждения, которые внутренне мотивируют людей. Но у некоторых людей есть и внешние мотивации. Для них перспектива заработать деньги более ценна, чем чувство принадлежности.
+    * Это тоже хорошо. Денежное вознаграждение участников заставляет их серьезнее относиться к участию в проекте и может даже поднять ваше сообщество в списке проектов, в которых они участвуют.
+    * Создайте предложение о выделении части вашей казны для взносов членов. Затем вместе с руководителями групп создайте и поддерживайте открытые доски задач и процессы оценки работы и выплаты взносов.
 
-### Activity 18: Articulate your learnings from growing your community. {-}
+### Действие 18: Сформулируйте свои выводы, сделанные в процессе развития вашего сообщества. {-}
 
-> ℹ️ **Demonstrating progress** 
+> ℹ️ **Демонстрация прогресса** 
 >
-> Don’t be afraid to get meta when demonstrating progress.
+> Не бойтесь пафоса, когда демонстрируете прогресс.
 
-One of the best ways of demonstrating progress is to simply articulate your personal learnings. People are more intrigued with the backstage details of what you do, instead of the thing that you actually do.[1]
+Один из лучших способов продемонстрировать прогресс - просто сформулировать свои личные наработки. Людей больше интересуют закулисные детали того, что вы делаете, а не то, что вы на самом деле делаете.[1]
 
-* Create a personal blog that gives commentary on your process as a community steward/founder.
-    * Try to go as specific as you can in these posts. People may not be interested in *****your***** community, but they will surely be interested in how *they* could grow one. Sharing your learnings is a great tactic to subtly market your community to newer audiences.
+* Создайте личный блог, в котором вы будете комментировать свой процесс в качестве управляющего/основателя сообщества.
+    * Старайтесь быть как можно более конкретными в этих сообщениях. Люди могут не интересоваться вашим сообществом, но им наверняка будет интересно узнать, как они могут его создать. Делиться своими наработками - отличная тактика для тонкого маркетинга вашего сообщества среди новых аудиторий.
 
-### Activity 19: Create a regular cadence of progress updates. {-}
+### Действие 19: Создайте регулярный график обновления информации о ходе работы. {-}
 
-Make it a point to share anything your community accomplishes or completes as regular, predictable intervals.
+Старайтесь делиться всем, чего достигло или что завершило ваше сообщество, через регулярные, предсказуемые промежутки времени.
 
-* Post weekly updates.
-    * The best manifestation of demonstrating progress is weekly updates. There is something about a community that shares what they’ve been upto and the challenges they are facing.
-* Try to open your communication channels to the world.
-    * Nothing demonstrates progress like letting the world peep into your office. This might not be possible for all communities, but there is certainly a version of this that you can implement. You may just open up the channel where you discuss and execute proposals. Or you can have some of your internal discussions open to the public.
+* Размещайте еженедельные обновления.
+    * Лучшим проявлением демонстрации прогресса являются еженедельные обновления. Есть что-то такое в сообществе, которое делится тем, чем занимается и с какими проблемами сталкивается.
+* Постарайтесь открыть свои каналы связи с миром.
+    * Ничто так не демонстрирует прогресс, как разрешение миру заглянуть в ваш офис. Возможно, это возможно не для всех сообществ, но, несомненно, есть вариант, который вы можете реализовать. Вы можете просто открыть канал, на котором вы обсуждаете и выполняете предложения. Или вы можете сделать некоторые из ваших внутренних обсуждений открытыми для общественности.
 
     --- edit above this ---
 

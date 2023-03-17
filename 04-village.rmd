@@ -33,54 +33,54 @@
 
 --- edit from here ---
 
-### Activity 20: Guarding the gates. {-}
+### Действие 20: Охрана ворот. {-}
 
-> ℹ️ **Approaching maintenance** 
+> ℹ️ **Приближение к техническому обслуживанию** 
 >
->Taking a closer look at how your community moves.
+>Внимательно изучите, как движется ваше сообщество.
 
-If you have reached the village, the raw experience of participating in your community is validate. Now, you must refine the onboarding and offboarding process.
+Если вы достигли деревни, то опыт участия в сообществе подтвердился. Теперь вы должны усовершенствовать процесс приема и увольнения.
 
-* Optimize your onboarding flow.
-    * A smooth onboarding flow encourages new members to become participants instead of spectators.
-    - Revisit your initiation rituals. Now that you have more resources at your disposal, how can you improve this experience?
-    * Perhaps, have a regular onboarding call weekly or fortnightly. Assign buddies to each new member to help them navigate the community. Or, personally reach out to new members and schedule a brief conversation with them.
-* Optimize your offboarding flow.
-    * A smooth offboarding flow turns leaving members into assets for the community.
-    * How do you ensure that members leave on a good note?
-    * Be open to any feedback you receive from exiting members, and do your best to help them go wherever it is that they want to go next. It may not benefit you immediately, but it will create goodwill with your exiting member that will payback in due time.
+* Оптимизируйте процесс регистрации.
+    * Плавный процесс вхождения в компанию побуждает новых членов стать участниками, а не зрителями.
+    - Пересмотрите свои ритуалы посвящения. Теперь, когда в вашем распоряжении больше ресурсов, как вы можете улучшить этот опыт?
+    * Возможно, регулярно, раз в неделю или раз в две недели, проводите телефонные разговоры с новичками. Назначьте приятелей каждому новому участнику, чтобы помочь ему сориентироваться в сообществе. Или лично обратитесь к новым членам и запланируйте с ними короткую беседу.
+* Оптимизируйте процесс отбора кандидатов.
+    * Плавный процесс увольнения превращает уходящих членов в активы сообщества.
+    * Как сделать так, чтобы члены клуба были в хорошем настроение?
+    * Будьте открыты для любой обратной связи, которую вы получаете от выходящих членов, и сделайте все возможное, чтобы помочь им продвинуться туда, куда они хотят двигаться дальше. Возможно, это не принесет вам немедленной выгоды, но создаст доброе отношение к выходящему члену, которое окупится в свое время.
 
-### Activity 21: Get really good at giving and receiving feedback. {-}
+### Действие 21: Станьте действительно хорошим в предоставлении и получении обратной связи. {-}
 
-Remember, community founders have great levels of influence and are held in high regard by the community members. As your community grows in this phase, most members view you as the village elder. Use this power to wisely.
+Помните, что основатели общины обладают большим влиянием и пользуются большим уважением среди членов общины. По мере роста вашей общины на этом этапе большинство членов воспринимают вас как старейшину деревни. Используйте эту власть с умом.
 
-* Learn to give great feedback.
-    * Great feedback comes from a place of empathy and contributes to the growth of the other person. Remember, it is about what they **did** — never about who they are.
-    * Check your emotions before giving feedback. It is extra important to choose your words carefully, since most people on the receiving end of feedback are subconsciously defensive to some extent. You want them to focus on what your say, not the delivery of it.
-    * Be as objective as you can. This means highlighting anything that is out of the ordinary — whether good or bad. Backing your arguments with examples/instances is the most helpful thing you can do.
-* Learn to take great feedback.
-    * When seeking feedback, it is important to be clear about your intentions — do you want to know the truth or are you just seeking approval?
-    * Don’t let having strong opinions about your work shut you from new or different ways to do things. The idea of feedback is to improve the quality of the end-product, not make a judgement on your ideas or your working style.
-    * A good practice in communities is to setup anonymous polls within pods or teams, where anyone can come and voice their opinions or ideas. Then, the pod of team leads can bring these up with the community and initiate discussion if required.
+* Научитесь давать отличную обратную связь.
+    * Отличная обратная связь исходит из места сопереживания и способствует росту другого человека. Помните, что речь идет о том, что они  **сделали** — и никогда о том, кто они есть.
+    * Проверьте свои эмоции, прежде чем давать обратную связь. Очень важно тщательно подбирать слова, поскольку большинство людей, получающих обратную связь, подсознательно в той или иной степени защищаются. Вы хотите, чтобы они сосредоточились на ваших словах, а не на их подаче.
+    * Будьте максимально объективны. Это означает выделение всего необычного - как хорошего, так и плохого. Подкрепляйте свои аргументы примерами/обстоятельствами - это самое полезное, что вы можете сделать.
+* Научитесь принимать отличную обратную связь.
+    * Когда вы ищете обратную связь, важно четко определить свои намерения - хотите ли вы узнать правду или просто хотите получить одобрение?
+    * Не позволяйте сильным мнениям о вашей работе отгородить вас от новых или иных способов выполнения работы. Идея обратной связи заключается в том, чтобы улучшить качество конечного продукта, а не выносить суждение о ваших идеях или стиле работы.
+    * Хорошей практикой в сообществах является организация анонимных опросов в группах или командах, где каждый может прийти и высказать свое мнение или идею. Затем руководители групп могут поднять эти вопросы в сообществе и инициировать обсуждение, если это необходимо.
 
-### Activity 22: How are things different from the early days? {-}
+### Действие 22: Как изменилась ситуация по сравнению с ранним периодом? {-}
 
-> ℹ️ **Take a stock of things** 
+> ℹ️ **Проведите инвентаризацию** 
 >
->The people involved in any project grow with it as well. This usually happens in subtle shifts, but after a long period of time, it is not difficult to notice these shifts and discover the factors responsible for them.
+>К этому моменту ваше сообщество уже набрало приличную аудиторию в более крупной экосистеме, частью которой вы являетесь. Отличным способом поддержания новизны и мотивации участия и ведения сообществ является партнерство с другими сообществами, разделяющими ваши интересы и/или цели.
 
-* Notice what has changed.
-    * Since the time you started your community to today, what has changed in your external environment? What are some new things — ideas, tools and technologies — that have come up?
-    * Internally, what were some unexpected consequences of the decisions your community made? These could be decisions around kicking members, doubling down on a particular bet, creating rituals, etc. For example, you may notice that the vibe of your community changes after highly visible people leave. Note the effect of such a change.
-    * Sometimes incentives can optimize for the wrong type of behaviour. What are the explicit and implicit incentive structures in your community? What are some ways people have gamed this? What new rituals or processes have sprung up? Are any of them unhealthy or unproductive?
-* Have a system to evaluate new ideas.
-    * Communities of this size come with their own set of pros and cons. What is something that your community is the best at? What is something that your community absolutely cannot do? Being aware of your constraints helps you evaluate new ideas — they might be great in general, but they could not be the most beneficial path of action for your community.
+* Обратите внимание на то, что изменилось.
+    * Что изменилось во внешней среде с момента создания вашего сообщества до сегодняшнего дня? Какие новые вещи - идеи, инструменты и технологии - появились?
+    * Каковы были неожиданные последствия решений, принятых вашим сообществом? Это могут быть решения об исключении членов, удвоении ставки, создании ритуалов и т.д. Например, вы можете заметить, что атмосфера в вашем сообществе меняется после того, как уходят очень заметные люди. Обратите внимание на эффект от такого изменения.
+    * Иногда стимулы оптимизируют неправильный тип поведения. Каковы явные и неявные структуры стимулов в вашем сообществе? Какие способы люди использовали в своих играх? Какие новые ритуалы или процессы возникли? Являются ли какие-либо из них нездоровыми или непродуктивными?
+* Иметь систему оценки новых идей.
+    * Сообщества такого размера имеют свои плюсы и минусы. В чем ваше сообщество лучше всего разбирается? Что ваше сообщество совершенно не может делать? Осознание своих ограничений поможет вам оценить новые идеи - они могут быть замечательными в целом, но могут оказаться не самым выгодным вариантом действий для вашей общины.
 
-### Activity 23: Host or coodinate community-wide events. {-}
+### Действие 23: Проведение или координирование мероприятий в масштабах всего сообщества. {-}
 
-* This one is straightforward — digital communities are the closest we have come to emulating the feeling irl togetherness, but they still cannot replace the real thing.
-    * Take the charge in coordinating an irl meetup for your community members that are open to do so. This need not even be something on its own — a good idea is to meet or host a side-event at any of the tentpole events that happen in your ecosystem around the year.
-    * For example, ETH Denver has become a popular event for many crypto communities to gather and meet irl for the first time. Explore similar events in your area if all your members are in the same country or continent.
+* Здесь все просто: цифровые сообщества ближе всего подошли к эмуляции чувства единения в реальной жизни, но они все равно не могут заменить реальную жизнь.
+    * Возьмите на себя ответственность за координацию irl meetup для членов вашего сообщества, которые готовы это сделать. Это даже не обязательно должно быть что-то самостоятельное - хорошей идеей будет встреча или дополнительное мероприятие на любом из главных событий, которые происходят в вашей экосистеме в течение года.
+    * Например, ETH Denver стал популярным мероприятием для многих криптосообществ, где они собираются и впервые встречаются вживую. Изучите возможность проведения подобных мероприятий в вашем регионе, если все члены вашего сообщества находятся в одной стране или на одном континенте.
 
 ## Общие препятствия {-}
 

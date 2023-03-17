@@ -2,10 +2,12 @@
 title: "Руководство по созданию сообщества"
 site: bookdown::bookdown_site
 documentclass: book
-url: https://Drepute.github.io/playbook/
+url: https://Drepute.github.io/playbook-ru/
 cover-image: "img/cover.png"
-description: "Это руководство по созданию сообщества, автором которого является @InfiniteGwei из rep3. Этот мануал является публичным ресурсом. Мы настоятельно рекомендуем вам читать, делиться и вносить свой вклад в это пособие!"
+description: |
+  "Это руководство по созданию сообщества, автором которого является @InfiniteGwei из rep3. Этот мануал является публичным ресурсом. Мы настоятельно рекомендуем вам читать, делиться и вносить свой вклад в это пособие!"
 github-repo: Drepute/playbook
+favicon: img/favicon.png
 ---
 
 # Всем привет! {-}
@@ -15,7 +17,6 @@ github-repo: Drepute/playbook
     font-size: 0;
 }
 ```
-
 
 ![](img/cover.png)
 

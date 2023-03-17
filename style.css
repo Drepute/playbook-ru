@@ -1,5 +1,5 @@
 p.caption {
-  color: rgb(104, 86, 224);
+  color: #777;
   margin-top: 10px;
 }
 p code {
@@ -12,7 +12,3 @@ pre {
 pre code {
   white-space: inherit;
 }
-
-.hey-there > h1, .title {
-  font-size: 0;
-}  

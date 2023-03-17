@@ -51,91 +51,91 @@
 
 --- edit here onwards! ---
 
-### Activity 6: Where does your community reside? {-}
+### Действие 6: Где располагается ваше сообщество? {-}
 
-> ℹ️ **Fostering community** 
+> ℹ️ **Содействие развитию сообщества** 
 >
->Fostering your community is best seen from various perspectives.
+>Укрепление вашего сообщества лучше всего рассматривать с разных точек зрения.
 
-The first order of business is creating a formal, shared space where you community can congregate. 
+В первую очередь необходимо создать официальное, общее пространство, где будет собираться ваше сообщество.
 
-* Clean up or create a new Discord server.
-    * Have different channels for different purposes. Ideally, you need to start with the fewest number of channels and only add more when existing channels are overflowing with activity. Having too many channels with little to no activity makes your server seem dead.
-    * This means you should have a *general channel* where anyone can come and message. A *gm channel* where everyone sends daily gm’s, and an *off-topic channel* to share memes, music/TV show recs, discuss interests, etc. In addition to this, you should have two channels where only the admins can send messages, others can only view. The first one is a channel that specifies server rules and links members to your community’s social media, as well as answering some FAQ. The second one is a channel where the full-time contributors discuss work matters.
-    * Chances are that the most active channel in your server will be the one the core team discusses matters related to work. This channel will be the one new members will be most curious to see. Therefore, be very intentional in how you communicate with each other.
-    * Remember, you are indirectly telling people what kind of behaviours are expected, encouraged and tolerated.
+* Приведите в порядок или создайте новый сервер Discord.
+    * Иметь разные каналы для разных целей. В идеале нужно начинать с наименьшего количества каналов и добавлять новые только тогда, когда существующие каналы будут переполнены активностью. Слишком большое количество каналов с малой или нулевой активностью приводит к тому, что ваш сервер кажется мертвым.
+    * Это означает, что у вас должен быть общий канал, куда может зайти любой и написать сообщение. Канал gm, где все отправляют ежедневные gm'ы, и канал off-topic для обмена мемами, рекомендациями музыки/телешоу, обсуждения интересов и т.д. В дополнение к этому, у вас должно быть два канала, где только администраторы могут отправлять сообщения, остальные могут только просматривать. Первый канал - это канал, в котором указываются правила сервера и ссылки на социальные сети вашего сообщества, а также ответы на некоторые часто задаваемые вопросы. Второй - это канал, где штатные участники обсуждают рабочие вопросы.
+    * Есть шанс, что самым активным каналом на вашем сервере будет тот, на котором основная команда обсуждает вопросы, связанные с работой. Именно этот канал будет наиболее интересен новым участникам. Поэтому будьте очень внимательны к тому, как вы общаетесь друг с другом.
+    * Помните, что вы косвенно сообщаете людям, какое поведение ожидается, поощряется и терпимо.
 
-### Activity 7: Define the paths of involvement. {-}
+### Действие 7: Распространяйте информацию! {-}
 
-At this stage, you would want to set clear paths with different levels of involvement for members. The paths should be divided exponentially i.e. each successive path should have a much higher amount of work and reward than the previous one.
+На этом этапе вы хотите установить четкие пути с различными уровнями вовлеченности участников. Пути должны быть разделены по экспоненте - каждый последующий путь должен иметь гораздо больший объем работы и вознаграждения, чем предыдущий.
 
-* What are some ways people can participate in your community?
-    * What is the easiest way to participate in your community? This could be as simple as interacting with your posts or creating social media content. For example, members could translate articles, create TikToks or explainers, etc.
-    * Ideally you should have three paths. The first path should be something that anyone can do with just a few minutes of investment per day. The second path is something that would ideally require a couple hours a week. The third path is something that would require an hour or more per day.
-    * This is also a great way to spread the word about your community and discover your most enthusiastic members. Ideally when expanding your team, you should choose from this pool first.
+* Какими способами люди могут участвовать в жизни вашего сообщества?
+    * Какой самый простой способ участия в жизни вашего сообщества? Это может быть простое взаимодействие с вашими сообщениями или создание контента в социальных сетях. Например, участники могут переводить статьи, создавать Тик Токи или разъяснения и т.д.
+    * В идеале у вас должно быть три пути. Первый путь должен быть таким, чтобы каждый мог заниматься им всего несколько минут в день. Второй путь - это то, что в идеале требует пары часов в неделю. Третий путь - это то, что требует часа или более в день.
+    * Это также отличный способ распространить информацию о вашем сообществе и выявить наиболее увлеченных участников. В идеале при расширении своей команды вы должны в первую очередь выбирать из этой группы.
 
-### Activity 8: Give everyone an opportunity to lead. {-}
+### Действие 8: Дайте каждому возможность быть лидером. {-}
 
-The best communities are built of leaders. Empowering everyone with an opportunity to lead does wonders for your community dynamic, not to mention that it makes your community more resilient.
+Лучшие сообщества строятся из лидеров. Предоставление каждому возможности быть лидером делает чудеса для динамики вашего сообщества, не говоря уже о том, что это делает его более устойчивым.
 
-* Create a ritual where community members get to lead in turns.
-    * You could, for example, choose a different member to host your weekly internal calls.
-    * You could also involve your top contributors to critical meetings or take their opinions in meta-admin matters.
-* Decide and create a totem for your community.
-    * Present the community with a task to decide upon and create a totem for your community. This could be an NFT, a physical object, an event or anything else. The idea is get the community to work out the details and execute the task together.
-    * From choosing the format, to the design, to the actual creation and then its distribution — these are all opportunities for people to hone and display their leadership skills.
+* Создайте ритуал, в котором члены общины будут вести по очереди.
+    * Например, вы можете выбрать другого сотрудника для проведения еженедельных внутренних звонков.
+    * Вы также можете привлекать своих ведущих сотрудников к участию в важных совещаниях или учитывать их мнение в вопросах мета-администрирования.
+* Примите решение и создайте тотем для своей общины.
+    * Представьте сообществу задачу решить и создать тотем для вашего сообщества. Это может быть NFT, физический объект, событие или что-то еще. Идея заключается в том, чтобы сообщество проработало детали и выполнило задание вместе.
+    * От выбора формата, дизайна, фактического создания и последующего распространения - все это возможности для людей отточить и проявить свои лидерские качества.
 
-### Activity 9: How do you make decisions? {-}
+### Действие 9: Документируйте свой процесс принятия решений. {-}
 
-> ℹ️ **Making decisions** 
+> ℹ️ **Принятие решений** 
 >
->The faster your decision making, the longer your community will survive. This is because making decisions inject energy in your community. They are a marker of movement and progress, which is the best motivator for any community member.
+>Чем быстрее вы принимаете решения, тем дольше просуществует ваше сообщество. Это связано с тем, что принятие решений заряжает энергией вашу общину. Они являются маркером движения и прогресса, что является лучшим мотиватором для любого члена сообщества.
 
-* Figure out what quick decision making means for your community.
-    * Remember, the correctness of a decision is only discovered in the future.  So while you weigh the pros and cons and try to find the *theoretical* best option, you indirectly choosing *concretely* slower execution. This saps your community’s morale, which is a far more accurate predictor of your community’s death than making a wrong decision.
-* Introduce the idea of schelling points.
-    * Promote a decision making process that encourages members to first think about what others are most likely to decide, and then choosing that option or from that set of options, instead of thinking evaluating the options first and then choosing from them.
-    * There is a high degree of divergence in what everyone considers to be the best option, however there is low to moderate convergence in what everyone thinks *others* will find to be the best option.
-    * Thinking in terms of schelling points, thus, either makes the decision for you, or narrows down your options which is another step to quick decision making.
-* Finally, document your process.
-    * Create a separate document that summarises you decision making processes. This should ideally fit in a page, and couple even be appended to your manifesto.
-    * This is will benefit the new members in understanding how things are done in your community, and are good reference points in times of confusion or disagreement.
+* Обеспечьте быстрое принятие решений.
+    * Правильным или неправильным было решение, можно узнать только в далеком будущем. Принимая решение о теоретически лучшем варианте, вы косвенно принимаете решение о конкретно более медленном исполнении. Это подрывает моральный дух вашей общины, что является гораздо более точным предсказателем ее гибели, чем принятие неправильного решения.
+* Представьте концепцию точек планирования.
+    * Способствовать процессу принятия решений, который поощряет членов организации сначала думать о том, что, скорее всего, решат другие, а затем выбирать этот вариант или из этого набора вариантов, вместо того, чтобы сначала думать, оценивая варианты, а затем выбирать из них.
+    * Существует высокая степень расхождения в том, что каждый считает лучшим вариантом, однако существует низкая или умеренная степень совпадения в том, что каждый считает лучшим вариантом для других.
+    * Таким образом, мышление в терминах точек списывания либо принимает решение за вас, либо сужает ваши возможности, что является еще одним шагом к быстрому принятию решения.
+* Наконец, документируйте свой процесс.
+    * Создайте отдельный документ с кратким описанием процесса принятия решений. В идеале он должен уместиться на одной странице, а иногда даже может быть приложен к вашему манифесту.
+    * Это поможет новым членам понять, как все устроено в вашем сообществе, и станет хорошим ориентиром в случае недоразумений или разногласий.
 
-### Activity 10: Setup a governance process. {-}
+### Действие 10: Настройте процесс управления. {-}
 
-* Decide how to give governance power in your community.
-    * This is best done through membership NFTs, since these are easy to setup and manage as your community grows over time. rep3’s platform enables communities to setup membership badges and a Gnosis Safe in a few clicks, which saves you the trouble of figuring out and setting these up separately.
-    * Membership NFT based governance also doesn’t require a large amount of setup upfront like that required to launch tokens (deciding on supply, creating liquidity pools, fair distribution, etc.) and saves your community from governance attacks.
-    * Lastly, this is also a good time to setup token gated spaces in your Discord server, and explore token-gated collaboration tools such as Clarity or Charmverse. (link these here)
-* Choose a platform where members can show up and vote.
-    * We suggest using Snapshot, since it is the default for all communities and is the easiest to setup. This is also the right time to set a formal proposal process that encourages members to share ideas, form comprehensive proposals and table them.
+* Решите, как наделить управление властью в вашем сообществе.
+    * Лучше всего это делать через членские НФТ, поскольку их легко настраивать и управлять ими по мере роста сообщества. Платформа rep3 позволяет сообществам устанавливать членские значки и Gnosis Safe в несколько кликов, что избавляет вас от необходимости выяснять и настраивать их отдельно.
+    * Управление на основе NFT также не требует большой предварительной подготовки, как это требуется для запуска токенов (принятие решения о предложении, создание пулов ликвидности, справедливое распределение и т.д.), и защищает ваше сообщество от атак на управление.
+    * Наконец, это также подходящее время для создания закрытых для токенов пространств на вашем сервере Discord и изучения инструментов совместной работы с токенами, таких как [Clarity](https://www.clarity.so/) или [Charmverse](https://www.charmverse.io/).
+* Выберите платформу, на которой члены организации смогут прийти и проголосовать.
+    * Мы предлагаем использовать Snapshot, поскольку он используется по умолчанию для всех сообществ и является самым простым в настройке. Это также подходящее время для создания формального процесса подачи предложений, который поощряет участников обмениваться идеями, формировать комплексные предложения и выносить их на обсуждение.
 
-### Activity 11: Elect an ombudsman in your community. {-}
+### Действие 11: Изберите омбудсмена в вашей общине. {-}
 
-> ℹ️ **Resolving conflicts** 
+> ℹ️ **Разрешение конфликтов** 
 >
->As mentioned above, conflicts are a natural part of working and living in groups. It is not the conflict, but rather the community’s response to it that has path altering effects on the community’s trajectory. The idea of all conflict resolution is to reconciliation by going to back to a point where everyone was in harmony.
+>Как уже упоминалось выше, конфликты являются естественной частью работы и жизни в группах. Не конфликт, а реакция на него оказывает изменяющее воздействие на траекторию развития сообщества. Идея любого разрешения конфликта заключается в примирении путем возвращения к точке, где все были в гармонии.
 
-* The ideal ombudsman is the individual that the community deems impartial enough to resolve conflicts.
-    * Have your community vote upon and decide upon an ombudsman. Work closely with this person to propose a conflict resolution playbook that documents the conflict-resolution process.
-    * A sample process could look like this — the parties involved submit description of the facts of the event and their intrepretations of it. The ombudsman then reviews these decisions and then goes into discussion with the two parties, starting with getting them to agree on facts, and then reconcile their differences thereon.
+* Идеальный омбудсмен - это человек, которого сообщество считает достаточно беспристрастным для разрешения конфликтов.
+    * Пусть ваше сообщество проведет голосование и примет решение об омбудсмене. В тесном сотрудничестве с этим человеком предложите руководство по разрешению конфликтов, в котором будет задокументирован процесс разрешения конфликтов.
+    * Примерный процесс может выглядеть следующим образом: вовлеченные стороны представляют описание фактов события и их интерпретацию. Омбудсмен рассматривает эти решения, а затем вступает в дискуссию с обеими сторонами, начиная с того, чтобы они пришли к согласию по фактам, а затем примирили свои разногласия по ним.
 
-### Activity 12: Define your community’s code of conduct. {-}
+### Действие 12: Определите кодекс поведения вашей общины. {-}
 
-* Prevention is better than cure. It is much easier to define and nudge your members towards proper ways of conducting themselves in the community, than it is to address someone breaking the code of conduct.
-    * A code of conduct is just a solidified, objective and a thorough description of your values. In addition to it should also list the basics i.e. a complete intolerance of any kind of discrimination (based on religion, gender of choice, perceived skill level, etc.) and behaviour that may contribute to creating an unhealthy atmosphere (unwelcome sexual attention, harassment or trolling, bullying people or taking sides, etc.)
-* Having a code of conduct that is not enforced is worse than having one that is. Be extremely clear about escalation practices. For example, institute a warning system in place, where each digression from the code of conduct is taken as one warning. Then, make it so it is easy for everyone to track the warnings of members ********without******** knowing what they were warned for.
-    * This could be done through badges that convey a warning was issued without any more details. You could also institute bans instead of or along with a warning system.
-* As founding members of the community, it is your imperative to hold safe spaces for everyone and anyone to come forth and share their concerns, no matter how trivial or grave. Make sure you along with the ombudsman are aligned on this, and communicate it frequently with the community.
+* Профилактика лучше, чем лечение. Гораздо легче определить и подтолкнуть членов вашей организации к надлежащим способам поведения в обществе, чем бороться с теми, кто нарушает кодекс поведения.
+    * Кодекс поведения - это просто затверженное, объективное и подробное описание ваших ценностей. Кроме того, в нем должны быть перечислены основы, т.е. полная нетерпимость к любому виду дискриминации (по признаку религии, пола, предполагаемого уровня квалификации и т.д.) и поведению, которое может способствовать созданию нездоровой атмосферы (нежелательное сексуальное внимание, преследование или троллинг, запугивание людей или принятие их стороны и т.д.).
+* Кодекс поведения, который не соблюдается, хуже, чем тот, который соблюдается. Будьте предельно ясны в отношении методов эскалации. Например, установите систему предупреждений, в которой каждое отступление от кодекса поведения будет считаться одним предупреждением. Затем сделайте так, чтобы все могли легко отслеживать предупреждения участников,  ********не зная******** за что они были предупреждены.
+    * Это можно сделать с помощью значков, сообщающих о том, что было вынесено предупреждение, без каких-либо подробностей. Можно также ввести запреты вместо или вместе с системой предупреждений.
+* Как основатели сообщества, вы обязаны обеспечить безопасное пространство для всех и каждого, чтобы каждый мог прийти и поделиться своими проблемами, независимо от того, насколько они тривиальны или серьезны. Убедитесь, что вы вместе с омбудсменом согласны с этим, и часто сообщайте об этом сообществу.
 
-### Activity 13: Revisit activity 1. {-}
+### Действие 13: Повторите действие 1. {-}
     
-In communities, the earliest members often set the tone of interactions for everyone that comes after. New members often look at the communication patterns of early members to see what is accepted and what isn’t. Here, your actions speak much, much louder than your words.
+В сообществах самые первые члены часто задают тон общения для всех последующих. Новые члены часто смотрят на модели общения первых членов, чтобы понять, что принято, а что нет. Здесь ваши действия говорят намного, намного громче, чем ваши слова.
     
-* Whatever precedent you set for your community, there is a high chance that someone takes it to its extremes. For example, if you have a culture of tolerating playful banter, then down the line you will see someone or the other take it to its extreme and outright troll or bully someone. Or, if you have a culture of shipping fast and turning around things quickly, chances are, sometimes people will not even adhere to the bare minimum standard of quality.
-* Take a step back and think hard about this. You ideally do not have to change yourself completely for your community. You just need to be careful in upholding boundaries or standards.
-* That’s why the biggest communities have zero tolerance for things that are common in small groups of people, simply because it broadens the “grey area” which is were most transgressions of a community’s code of conduct lie.
-* Remember, people are more concerned with not looking bad in front of their peers than gaining their praise. Often, not acknowledging and encouraging the unwanted behaviour by anyone, ever is a really strong way to prevent transgressions of your code of conduct, or address them swiftly if they ever happen.
+* Какой бы прецедент вы ни создали для своего сообщества, велика вероятность того, что кто-то доведет его до крайности. Например, если у вас есть культура терпимого отношения к игривому подшучиванию, то впоследствии вы увидите, как кто-то или кто-то другой доведет это до крайности и будет откровенно троллить или издеваться над кем-то. Или, если у вас есть культура быстрой доставки и быстрого выполнения заказов, есть шанс, что иногда люди не будут придерживаться даже минимальных стандартов качества.
+* Сделайте шаг назад и хорошенько подумайте об этом. В идеале вам не нужно полностью менять себя ради общества. Вам просто нужно быть осторожным в соблюдении границ или стандартов.
+* Именно поэтому крупнейшие сообщества проявляют нетерпимость к вещам, которые распространены в небольших группах людей, просто потому, что это расширяет "серую зону", в которой происходит большинство нарушений кодекса поведения сообщества.
+* Помните, что людям важнее не выглядеть плохо перед своими сверстниками, чем заслужить их похвалу. Часто непризнание и поощрение нежелательного поведения со стороны кого бы то ни было, является действительно сильным способом предотвратить нарушения вашего кодекса поведения или быстро устранить их, если они все же произошли.
 
 --- edit above this! ---
 
