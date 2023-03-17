@@ -1,12 +1,12 @@
-# References {-}
+# Cсылки {-}
 
-We are grateful for all the operators and builders that took the time to share their thoughts, learnings and ideas online.
+Мы благодарны всем принявшим участие, за то что они нашли время, чтобы поделиться своими мыслями, знаниями и идеями здесь.
 
-The following links played a huge role in the creation of this playbook's first draft.
+Следующие ссылки сыграли огромную роль в создании первого чернового варианта этого руководства.
 
-If you find your work in the list below, do drop a comment or slide through rep3's [Discord server](discord.gg/xK2WXUv3VG)! We have a special membership badge waiting for you. 😄
+Если вы найдете свою работу в списке ниже, оставьте комментарий или свяжитесь с нами через сервер Rep3 [Discord server](discord.gg/xK2WXUv3VG)! У нас есть специальный значок участника, который ждет вас. 😄
 
-*In no particular order:*
+*Без особого порядка:*
 
 [The Laws of Lorecore - ZORA ZINE](https://zine.zora.co/the-laws-of-lorecore-shumon-basar)
 
