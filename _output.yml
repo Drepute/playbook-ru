@@ -7,7 +7,7 @@ bookdown::gitbook:
       before: |
         <li><center><a href="https://Drepute.github.io/playbook-ru/">Community Building Playbook (RU)</a></center></li>
       after: |
-        <li><a href="https://rep3.gg?utm_source=playbook&utm_medium=pb-ru"><i>Maintained by rep3</i> 😄</a></li>
+        <li><a href="https://rep3.gg/?utm_source=pb-ru&utm_medium=playbook"><i>Maintained by rep3</i> 😄</a></li>
         <li><a href="https://github.com/rstudio/bookdown"><i>Published using bookdown</i> 📕</a></li>
     edit: https://github.com/Drepute/playbook-ru/edit/main/%s
     download: null
